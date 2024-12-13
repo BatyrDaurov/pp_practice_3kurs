@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Угадай место</string>
+    <string name="app_name">Угадай страну</string>
     <string name="google_map_api_key">AIzaSyD7TjCrpHaTMya0JNWx3G9f9kkx0wcFWqM</string>
 
     <string name="btn_to_menu">В главное меню</string>
