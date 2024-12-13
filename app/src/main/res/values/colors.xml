@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#03A9F4</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="trans_yellow">#65FFEB3B</color>
+
+    <color name="button_bg">#03A9F4</color>
+    <color name="app_bg">#384B70</color>
+    <color name="accent_color">#FCFAEE</color>
+    <color name="welcome_about_color">#99A0AF</color>
+    <color name="text_button_color">#507687</color>
+    <color name="stroke_button_color">#D4D1BB</color>
+    <color name="wrong_button_color">#FCEEEE</color>
+    <color name="true_button_color">#EEFCF2</color>
+    <color name="wrong_text_button_color">#875051</color>
+    <color name="true_text_button_color">#50875C</color>
+    <color name="accent_text_color">#93ADDE</color>
+</resources>

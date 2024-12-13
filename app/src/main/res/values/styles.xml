@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GameButtonStyle" parent="Widget.AppCompat.Button">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/accent_color</item>
+        <item name="android:textColor">@color/text_button_color</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">@font/inter_light</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="GameButtonWrongStyle" parent="Widget.AppCompat.Button">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/wrong_button_color</item>
+        <item name="android:textColor">@color/wrong_text_button_color</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">@font/inter_light</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="GameButtonTrueStyle" parent="Widget.AppCompat.Button">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/true_button_color</item>
+        <item name="android:textColor">@color/true_text_button_color</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">@font/inter_light</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+</resources>
